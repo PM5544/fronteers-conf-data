@@ -1,0 +1,706 @@
+[
+    {
+        "attendees": 215,
+        "city": "Amsterdam",
+        "days": [
+            "2008-09-11 00:00:00",
+            "2008-09-12 00:00:00"
+        ],
+        "description": "Fronteers 2008",
+        "sessions": [
+            {
+                "by": "Pete LePage",
+                "title": "Internet Explorer 8: Microsoft Next Generation Browser"
+            },
+            {
+                "by": "Stephen Hay",
+                "title": "Maintainable CSS"
+            },
+            {
+                "by": "Christian Heilmann",
+                "title": "Maintainable JavaScript"
+            },
+            {
+                "by": "Tom Occhino",
+                "title": "Object Oriented Design in Web Applications"
+            },
+            {
+                "by": "Gerbert Kaandorp",
+                "title": "Programming with XML and Javascript"
+            },
+            {
+                "by": "Stuart Langridge",
+                "title": "Secrets of JavaScript Closures"
+            },
+            {
+                "by": "Raph de Rooij",
+                "title": "Standards compliance: why bother?"
+            },
+            {
+                "by": "Bert Bos",
+                "title": "Understanding the CSS box model"
+            },
+            {
+                "by": "Anne van Kesteren",
+                "title": "Video in HTML5"
+            },
+            {
+                "by": "Andy Clarke",
+                "title": "Waiting For The Great Leap Forwards (CSS Positioning)"
+            }
+        ],
+        "venue": "Pakhuis de Zwijger"
+    },
+    {
+        "attendees": 306,
+        "city": "Amsterdam",
+        "days": [
+            "2009-11-05 00:00:00",
+            "2009-11-06 00:00:00"
+        ],
+        "description": "Fronteers 2009",
+        "sessions": [
+            {
+                "by": "Douglas Crockford",
+                "title": "A Web of Confusion"
+            },
+            {
+                "by": "Martin Savelkoul",
+                "title": "Building and maintaining a complex frontend codebase - A case study"
+            },
+            {
+                "by": "Steve Souders",
+                "title": "Even Faster Web Sites"
+            },
+            {
+                "by": "Nicole Sullivan",
+                "title": "Object Oriented CSS"
+            },
+            {
+                "by": "Chris Heilmann",
+                "title": "Of hamsters, feature creatures and missed opportunities"
+            },
+            {
+                "by": "Thomas Fuchs",
+                "title": "Roll Your Own Effects Framework"
+            },
+            {
+                "by": "Laurens van den Oever",
+                "title": "The challenges and rewards of writing a 100K line JavaScript application"
+            },
+            {
+                "by": "Dion Almaer and Ben Galbraith",
+                "title": "The Future of Web Applications"
+            },
+            {
+                "by": "Stephen Hay",
+                "title": "The future state of layout"
+            },
+            {
+                "by": "Peter-Paul Koch",
+                "title": "The Mobile Web, or the masochist’s guide to gleeful self-flagellation"
+            },
+            {
+                "by": "Jonathan Snook",
+                "title": "The Type We Want: Using Fonts on the Web"
+            },
+            {
+                "by": "John Resig",
+                "title": "Understanding JavaScript Testing"
+            },
+            {
+                "by": "Pete LePage",
+                "title": "Using HTML5 Features In Internet Explorer 8"
+            },
+            {
+                "by": "Molly Holzschlag",
+                "title": "What's New With the Mobile Web"
+            }
+        ],
+        "venue": "Felix Meritis"
+    },
+    {
+        "attendees": 306,
+        "city": "Amsterdam",
+        "days": [
+            "2010-10-07 00:00:00",
+            "2010-10-08 00:00:00"
+        ],
+        "description": "Fronteers 2010",
+        "sessions": [
+            {
+                "by": "Meagan Fisher",
+                "title": "Creating lifelike designs with CSS3"
+            },
+            {
+                "title": "CSS breakout with Andy Clarke"
+            },
+            {
+                "by": "Jina Bolton",
+                "title": "CSS Workflow"
+            },
+            {
+                "by": "Håkon Wium Lie",
+                "title": "CSS3"
+            },
+            {
+                "by": "Nicholas Zakas",
+                "title": "High Performance JavaScript"
+            },
+            {
+                "by": "Steve Faulkner & Hans Hillen",
+                "title": "HTML5 Accessibility: Is it ready yet?"
+            },
+            {
+                "by": "Robert Nyman",
+                "title": "JavaScript - Like a box of chocolates"
+            },
+            {
+                "by": "Stoyan Stefanov",
+                "title": "Progressive Downloads and Rendering"
+            },
+            {
+                "by": "Stephen Hay",
+                "title": "Real-world Responsive Design"
+            },
+            {
+                "by": "Chris Heilmann",
+                "title": "Reasons to be cheerful"
+            },
+            {
+                "by": "Jake Archibald",
+                "title": "Reusable Code, for good or for awesome!"
+            },
+            {
+                "by": "Jeremy Keith",
+                "title": "The Design of HTML5"
+            },
+            {
+                "by": "Cameron Adams",
+                "title": "The Renaissance of Browser Animation"
+            },
+            {
+                "by": "Paul Irish",
+                "title": "The State of HTML5: Inaugural Address"
+            },
+            {
+                "by": "Brad Neuberg",
+                "title": "Vector Graphics for the Web"
+            }
+        ],
+        "venue": "Felix Meritis"
+    },
+    {
+        "attendees": 500,
+        "city": "Amsterdam",
+        "days": [
+            "2011-10-06 00:00:00",
+            "2011-10-07 00:00:00"
+        ],
+        "description": "Fronteers 2011",
+        "sessions": [
+            {
+                "by": "Derek Featherstone",
+                "title": "Accessibility for the Modern Web"
+            },
+            {
+                "by": "Lea Verou",
+                "title": "CSS3 Secrets: 10 things you might not know about CSS3"
+            },
+            {
+                "by": "Seb Lee-Delisle",
+                "title": "CreativeJS – beauty in the browser"
+            },
+            {
+                "by": "Stephen Hay",
+                "title": "Go with the flow"
+            },
+            {
+                "by": "Robert Nyman",
+                "title": "HTML5 Forms - KISS time"
+            },
+            {
+                "by": "Bruce Lawson",
+                "title": "HTML5 Semantics: you too can be a bedwetting antfucker"
+            },
+            {
+                "by": "Jake Archibald",
+                "title": "In your @font-face"
+            },
+            {
+                "by": "John Resig",
+                "title": "jQuery and the Open Source Process"
+            },
+            {
+                "by": "Leslie Jensen-Inman",
+                "title": "Passion. Purpose. Promise. Pursuit."
+            },
+            {
+                "by": "Aral Balkan",
+                "title": "The Future is Native"
+            },
+            {
+                "by": "Tab Atkins Jr.",
+                "title": "The Future of CSS - Current Experiments and Near-Future Reality"
+            },
+            {
+                "by": "Divya Manian",
+                "title": "The New Developer Workflow"
+            },
+            {
+                "by": "Chris Heilmann",
+                "title": "The prestige of being a web developer"
+            },
+            {
+                "by": "Alex Russell",
+                "title": "Web Components and Model Driven Views"
+            }
+        ],
+        "venue": "Pathé Tuschinski"
+    },
+    {
+        "attendees": 560,
+        "city": "Amsterdam",
+        "days": [
+            "2012-10-04 00:00:00",
+            "2012-10-05 00:00:00"
+        ],
+        "description": "Fronteers 2012",
+        "sessions": [
+            {
+                "by": "Mark Boulton",
+                "title": "Adapting to Responsive Design"
+            },
+            {
+                "by": "Addy Osmani",
+                "title": "The New And Improved Developer Toolbelt"
+            },
+            {
+                "by": "Peter-Paul Koch",
+                "title": "A Pixel is not a Pixel"
+            },
+            {
+                "by": "Alex Graul",
+                "title": "Using JS to build bigger, better datavis to enlighten and elate"
+            },
+            {
+                "by": "Mathias Bynens",
+                "title": "Ten things I didn’t know about HTML"
+            },
+            {
+                "by": "Stephen Hay",
+                "title": "Style guides are the new Photoshop"
+            },
+            {
+                "title": "Accessibility panel with Bram Duvigneau, Antoine Hegeman and Bor Verkroost"
+            },
+            {
+                "by": "Lea Verou",
+                "title": "More CSS secrets: Another 10 things you may not know about CSS"
+            },
+            {
+                "by": "Marcin Wichary",
+                "title": "The biggest devils in the smallest details"
+            },
+            {
+                "by": "David DeSandro",
+                "title": "Open-source ain't free"
+            },
+            {
+                "by": "Jeroen Wijering",
+                "title": "The State of HTML5 Video"
+            },
+            {
+                "by": "Anne van Kesteren",
+                "title": "Building the web platform"
+            },
+            {
+                "by": "Phil Hawksworth",
+                "title": "I can smell your CMS"
+            },
+            {
+                "by": "Peter Nederlof",
+                "title": "Beyond simple transitions, with a pinch of JavaScript"
+            },
+            {
+                "by": "Rebecca Murphey",
+                "title": "JS Minty Fresh: Identifying and Eliminating Smells in Your Code Base"
+            },
+            {
+                "by": "Alex Russell",
+                "title": "The Web Platform & The Process of Progress"
+            }
+        ],
+        "venue": "Pathé Tuschinski"
+    },
+    {
+        "attendees": 568,
+        "city": "Amsterdam",
+        "days": [
+            "2013-10-10 00:00:00",
+            "2013-10-11 00:00:00"
+        ],
+        "description": "Fronteers 2013",
+        "sessions": [
+            {
+                "by": "Paul Lewis",
+                "title": "A developer's guide to rendering performance"
+            },
+            {
+                "by": "Alex MacCaw",
+                "title": "Faster JavaScript web apps"
+            },
+            {
+                "by": "Garann Means",
+                "title": "How to rewrite your JS app (at least) 10 times"
+            },
+            {
+                "by": "Bruce Lawson",
+                "title": "HTML.future - what the web needs next"
+            },
+            {
+                "by": "Luc(as) de Groot",
+                "title": "On designing typefaces"
+            },
+            {
+                "by": "Robert Jan Verkade",
+                "title": "On power & responsibility"
+            },
+            {
+                "by": "Elaine Oliver, Edd Sowden, Anton Vanhoucke",
+                "title": "Practical session"
+            },
+            {
+                "by": "Steve Souders",
+                "title": "Pre-browsing"
+            },
+            {
+                "by": "Zoe Mickley Gillenwater",
+                "title": "Putting Flexbox into practice"
+            },
+            {
+                "by": "Harry Roberts",
+                "title": "Rationalising designs for better quality code"
+            },
+            {
+                "by": "Peter van der Zee",
+                "title": "Real-time recompilation of running JavaScript"
+            },
+            {
+                "by": "Marcos Caceres",
+                "title": "Responsive images: ain't we there yet?"
+            },
+            {
+                "by": "Oliver Reichenstein",
+                "title": "Responsive typography"
+            },
+            {
+                "by": "Angelina Fabbro",
+                "title": "Return of Inspector Web: Web Components a Year Later"
+            },
+            {
+                "by": "Sergi Mansilla",
+                "title": "The importance of Firefox OS"
+            },
+            {
+                "by": "Domenic Denicola",
+                "title": "The state of JavaScript"
+            }
+        ],
+        "venue": "Pathé Tuschinski"
+    },
+    {
+        "attendees": 513,
+        "city": "Amsterdam",
+        "days": [
+            "2014-10-09 00:00:00",
+            "2014-10-10 00:00:00"
+        ],
+        "description": "Fronteers 2014",
+        "sessions": [
+            {
+                "by": "Heydon Pickering",
+                "title": "Getting nowhere with CSS best practices"
+            },
+            {
+                "by": "Daniel Espeset",
+                "title": "Making maps"
+            },
+            {
+                "by": "Nathan Ford",
+                "title": "Do we need to write markup?"
+            },
+            {
+                "by": "Arnout Kazemier",
+                "title": "Pushing the real-time web forward"
+            },
+            {
+                "by": "Rachel Nabors",
+                "title": "State of the Animation 2014"
+            },
+            {
+                "by": "Dominic Szablewski, Luc Bloom, Thomas Palef",
+                "title": "Gaming in the Browser"
+            },
+            {
+                "by": "Shwetank Dixit",
+                "title": "WebRTC: A front-end perspective"
+            },
+            {
+                "by": "Alex Feyerke",
+                "title": "Offline First: faster, more fun, and more robust (web) apps"
+            },
+            {
+                "by": "Nicolas Gallagher",
+                "title": "Making Twitter UI infrastructure"
+            },
+            {
+                "by": "Dave Olsen",
+                "title": "Optimizing web performance"
+            },
+            {
+                "by": "Sara Soueidan",
+                "title": "Animating SVGs with CSS and SMIL"
+            },
+            {
+                "by": "Paul Kinlan",
+                "title": "This is the web platform"
+            },
+            {
+                "by": "Meri Williams",
+                "title": "Using agile to bake in accessibility"
+            },
+            {
+                "by": "Kyle Simpson",
+                "title": "Choose your own JS adventure"
+            },
+            {
+                "by": "Pete Hunt",
+                "title": "Scaling up and down: evolving your testing strategies"
+            },
+            {
+                "by": "Petro Salema",
+                "title": "Dream big. Think small"
+            }
+        ],
+        "venue": "Pathé Tuschinski"
+    },
+    {
+        "attendees": 500,
+        "city": "Amsterdam",
+        "days": [
+            "2015-10-09 00:00:00",
+            "2015-10-10 00:00:00"
+        ],
+        "description": "Fronteers 2015",
+        "sessions": [
+            {
+                "by": "Scott Jehl",
+                "title": "Delivering Responsibly"
+            },
+            {
+                "by": "Rachel Andrew",
+                "title": "But What About Old Browsers?!? Embracing New CSS When Your Users Are Stuck in the Past"
+            },
+            {
+                "by": "Chris Eppstein",
+                "title": "Lightning Fast Sass"
+            },
+            {
+                "by": "Soledad Penadés",
+                "title": "Hands-On Web Audio"
+            },
+            {
+                "by": "Anna Debenham",
+                "title": "Front-end Style Guides"
+            },
+            {
+                "by": "Alice Bartlett",
+                "title": "What is the Business Case for Accessibility?"
+            },
+            {
+                "by": "Rejo Zenger",
+                "title": "Freedom Can Be Designed"
+            },
+            {
+                "by": "Espen Brunborg, Gordon McLachlan, Bart Oleszczyk",
+                "title": "Walking the Tightrope Between Mediocrity and Bankruptcy"
+            },
+            {
+                "by": "Sally Jenkinson",
+                "title": "An Introduction to Open Data"
+            },
+            {
+                "by": "Wes Bos",
+                "title": "Modern Workflow + Tooling for Front-end Developers"
+            },
+            {
+                "by": "Jake Archibald",
+                "title": "Modern Progressive Enhancement"
+            },
+            {
+                "by": "Dominic Szablewski",
+                "title": "jsmpeg: Why a JavaScript Video Decoder Actually Makes Sense"
+            },
+            {
+                "by": "Christian Heilmann",
+                "title": "Of Gaps, Fillers and Empty Spaces"
+            },
+            {
+                "by": "Phil Hawksworth",
+                "title": "Static Sites Go All Hollywood"
+            },
+            {
+                "by": "Remy Sharp",
+                "title": "The Art of Debugging"
+            },
+            {
+                "by": "Lisa Welchman",
+                "title": "Digital Governance"
+            }
+        ],
+        "venue": "Pathé Tuschinski"
+    },
+    {
+        "attendees": 300,
+        "city": "Amsterdam",
+        "days": [
+            "2016-10-09 00:00:00",
+            "2016-10-10 00:00:00"
+        ],
+        "description": "Spring Conf 2016",
+        "sessions": [
+            {
+                "by": "Tobias Ahlin",
+                "title": "Animation & perceived performance"
+            },
+            {
+                "by": "Paul Bakaus",
+                "title": "The Illusion of Speed"
+            },
+            {
+                "by": "Bram Stein",
+                "title": "Web Fonts Performance"
+            },
+            {
+                "by": "Marcy Sutton",
+                "title": "Accessibility and Performance"
+            },
+            {
+                "by": "Karl Groves",
+                "title": "To Hell with Performance"
+            },
+            {
+                "by": "Estelle Weyl",
+                "title": "RWD is not a panacea"
+            },
+            {
+                "by": "Yan Zhu",
+                "title": "Towards Faster, Safer Websites"
+            },
+            {
+                "by": "Tobias Baldauf",
+                "title": "Your Hero Images Need You! Save the Day with HTTP2 Image Loading"
+            },
+            {
+                "by": "Mathias Bynens",
+                "title": "Front-End Performance: The Dark Side"
+            },
+            {
+                "by": "Kristian Sköld",
+                "title": "Closing keynote"
+            }
+        ],
+        "venue": "EYE"
+    },
+    {
+        "attendees": 549,
+        "city": "Amsterdam",
+        "days": [
+            "2016-10-06 00:00:00",
+            "2016-10-07 00:00:00"
+        ],
+        "description": "FronteersConf 2016",
+        "sessions": [
+            {
+                "by": "Barbara Bermes",
+                "title": "Cheat Sheet To A Lean Website"
+            },
+            {
+                "by": "Ire Aderinokun",
+                "title": "Progressive Enhancement and CSS"
+            },
+            {
+                "by": "Jason Grigsby",
+                "title": "Adapting to Input"
+            },
+            {
+                "by": "Sarah Drasner",
+                "title": "Functional Animation"
+            },
+            {
+                "by": "Martin Splitt",
+                "title": "Multi-user WebVR or: Wait, who are these people?"
+            },
+            {
+                "by": "Nadieh Bremer",
+                "title": "Hacking the visual norm"
+            },
+            {
+                "by": "Nolan Lawson",
+                "title": "Offline, progressive, and multithreaded: a peek at the webapps of the future"
+            },
+            {
+                "by": "Léonie Watson",
+                "title": "Technologic (Human Afterall): Accessibility mix"
+            },
+            {
+                "by": "Heydon Pickering",
+                "title": "Joining Up The Dots"
+            },
+            {
+                "by": "Peter Gasston",
+                "title": "Surveying the Landscape"
+            },
+            {
+                "by": "Monika Piotrowicz",
+                "title": "Scaling Front End Development"
+            },
+            {
+                "by": "G. Scott Olson",
+                "title": "How You Do What You Do Is Who You Are"
+            },
+            {
+                "by": "Zell Liew",
+                "title": "Building Responsive CSS Components"
+            },
+            {
+                "by": "Lodewijk Nauta",
+                "title": "Big Data, Big Impact"
+            },
+            {
+                "by": "Rob van Steenbergen",
+                "title": "This Talk Seems to Be About Testing"
+            },
+            {
+                "by": "Scott Helme",
+                "title": "CSP STS PKP SRI ETC OMG WTF BBQ"
+            },
+            {
+                "by": "Bruce Lawson",
+                "title": "World-Wide Web, not Wealthy Western Web"
+            }
+        ],
+        "venue": "Pathé Tuschinski"
+    },
+    {
+        "attendees": 500,
+        "city": "Amsterdam",
+        "days": [
+            "2017-10-05 00:00:00",
+            "2017-10-06 00:00:00"
+        ],
+        "description": "Fronteers 2017",
+        "venue": "Pathé Tuschinski"
+    }
+]
